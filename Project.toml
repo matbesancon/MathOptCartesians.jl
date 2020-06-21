@@ -1,0 +1,13 @@
+name = "MathOptCartesians"
+uuid = "8a73e4f7-4884-4432-9e6c-177de49fadc8"
+authors = ["Mathieu Besançon"]
+version = "0.1.0"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
